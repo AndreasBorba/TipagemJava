@@ -1,6 +1,6 @@
 package com.dio;
 
-public class tipagemJava {
+public class TipagemJava {
 
     public static void main(String[] args) {
         byte b1 = 10;
